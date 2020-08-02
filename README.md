@@ -1,4 +1,5 @@
-### Hi there, I'm Shreyas 👋
+### Hi there, I'm Shreyas <img align="left" alt="high" width="30px" height="30px" src="https://github.com/ShreyasSubhedar/ShreyasSubhedar/blob/master/waving_hand.gif" />
+
 - 🔭 I’m currently working on a Golang projects!
 - 🌱 I’m currently learning GraphQL 
 - 👯 I’m looking to collaborate with geeky minds
@@ -37,10 +38,13 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 <br/>
+<br/>
+
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShreyasSubhedar&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Shreyas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShreyasSubhedar&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: http://shreyassubhedar.rf.gd
 [hackerrank]: https://www.hackerrank.com/ShreyasXO
