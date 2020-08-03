@@ -45,6 +45,8 @@
 ---
 
 <img align="left" alt="Shreyas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShreyasSubhedar&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Shreyas's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasSubhedar&hide=Jupyter Notebook" />
+
 
 [website]: http://shreyassubhedar.rf.gd
 [hackerrank]: https://www.hackerrank.com/ShreyasXO
