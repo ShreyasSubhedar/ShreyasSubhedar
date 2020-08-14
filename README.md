@@ -1,6 +1,6 @@
 ### Hi there, I'm Shreyas <img align="left" alt="high" width="30px" height="30px" src="https://github.com/ShreyasSubhedar/ShreyasSubhedar/blob/master/waving_hand.gif" />
 
-- 🔭 I’m currently working on a [expense tracker API](https://github.com/ShreyasSubhedar/expense-tracker-api)
+- 🔭 I’m currently working on [expense tracker API](https://github.com/ShreyasSubhedar/expense-tracker-api)
 - 🌱 I’m currently learning GraphQL 
 - 👯 I’m looking to collaborate with geeky minds
 - 🥅 2020 Goals: Contribute more to Open Source projects
