@@ -57,11 +57,10 @@
 ---
 
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyassubhedar&repo=DevOps-Scaling-Automation-In-Swarm)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyassubhedar&repo=DevOps-Scaling-Automation-In-Swarm)](https://github.com/ShreyasSubhedar/DevOps-Scaling-Automation-In-Swarm)
 
 
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyassubhedar&repo=Github-Automation)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyassubhedar&repo=Github-Automation)](https://github.com/ShreyasSubhedar/Github-Automation)
 
 [website]: http://shreyassubhedar.rf.gd
 [hackerrank]: https://www.hackerrank.com/ShreyasXO
