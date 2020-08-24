@@ -47,6 +47,21 @@
 <img align="left" alt="Shreyas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShreyasSubhedar&show_icons=true&hide_border=true&count_private=true" />
 <img align="left" alt="Shreyas's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasSubhedar&hide_border=true&hide=Jupyter Notebook,HTML,CSS" />
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+---
+
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyassubhedar&repo=DevOps-Scaling-Automation-In-Swarm)
+
+
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyassubhedar&repo=Github-Automation)
 
 [website]: http://shreyassubhedar.rf.gd
 [hackerrank]: https://www.hackerrank.com/ShreyasXO
