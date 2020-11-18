@@ -1,4 +1,4 @@
-### Hi there, I'm Shreyas <img align="left" alt="high" width="30px" height="30px" src="https://github.com/ShreyasSubhedar/ShreyasSubhedar/blob/master/waving_hand.gif" />
+### Hi there, I am Shreyas <img align="left" alt="high" width="30px" height="30px" src="https://github.com/ShreyasSubhedar/ShreyasSubhedar/blob/master/waving_hand.gif" />
 
 - 🔭 I’m currently working on [Python Automation and AWS](https://github.com/ShreyasSubhedar/AWS-Automation-Scripts)
 - 🌱 I’m currently learning Jenkins
