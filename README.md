@@ -1,8 +1,8 @@
 ### Hi there, I am Shreyas <img align="left" alt="high" width="30px" height="30px" src="https://github.com/ShreyasSubhedar/ShreyasSubhedar/blob/master/waving_hand.gif" />
 
-- 🌱 I’m currently learning Jenkins
+- 🌱 I’m currently learning golang
 - 👯 I’m looking to collaborate with geeky minds
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: [Portfolio](http://shreyassubhedar.rf.gd)
 
 ---
